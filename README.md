@@ -1,7 +1,7 @@
 ## olá! Eu sou o Luan Souza
 
 - 👨‍💻 Hoje trabalho com back end e front end.
-- 📚 Estudando Python, Delphi, HTML, CSS.
+- 📚 Estudando JavaScript Python, Delphi, HTML, CSS.
 
 
 <div align="center">
