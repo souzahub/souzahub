@@ -18,6 +18,8 @@
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Luan-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
+  <img align="center" alt="Luan-sqldeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">  
+  <img align="center" alt="Luan-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
   
                                                                                                                                             
 </div>
