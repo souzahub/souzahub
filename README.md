@@ -42,9 +42,9 @@ Desenvolvedor de Software com sólida experiência em ecossistema **Delphi / ERP
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=souzahub&theme=dracula" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzahub&layout=compact&theme=dracula" />
+  <img height="180" src="https://streak-stats.demolab.com?user=souzahub&theme=dracula&locale=pt_BR" />
 </div>
+
 
 ---
 
